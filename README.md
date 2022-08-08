@@ -10,7 +10,7 @@
 - [x] Deve ser possivel obter os dados da conta do cliente
 - [x] Deve ser possivel deletear uma conta 
 
-## Regras de negócio
+### Regras de negócio
 -[x] Não deve ser possível cadastrar uma conta com CPF já existente
 -[x] Não deve ser possível fazer um depósito em uma conta não existente
 -[x] Não deve ser possível buscar o extrato de uma conta não existente 
