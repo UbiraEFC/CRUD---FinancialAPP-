@@ -11,11 +11,11 @@
 - [x] Deve ser possivel deletear uma conta 
 
 ### Regras de negócio
--[x] Não deve ser possível cadastrar uma conta com CPF já existente
--[x] Não deve ser possível fazer um depósito em uma conta não existente
--[x] Não deve ser possível buscar o extrato de uma conta não existente 
--[x] Não deve ser possível fazer saque em uma conta não existente 
--[x] Não deve ser possível excluir uma conta não existente 
--[x] Não deve ser possível fazer saque quando o soldo for insuficiente 
+- [x] Não deve ser possível cadastrar uma conta com CPF já existente
+- [x] Não deve ser possível fazer um depósito em uma conta não existente
+- [x] Não deve ser possível buscar o extrato de uma conta não existente 
+- [x] Não deve ser possível fazer saque em uma conta não existente 
+- [x] Não deve ser possível excluir uma conta não existente 
+- [x] Não deve ser possível fazer saque quando o soldo for insuficiente 
 
 
